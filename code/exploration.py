@@ -9,3 +9,5 @@ df.head()
 plt.figure(figsize=(12,8))
 plt.bar(df["movie"],df["rating"])
 
+
+#ciao
